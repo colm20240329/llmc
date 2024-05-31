@@ -11,3 +11,4 @@ llama2-7B-chat, input_len=20，output_len=400，4bit(Q4_K_M)，3bit(Q3_K_M)，2b
 | 3           | 3.57               | 8.73              |
 | 2           | 2.96               | 7.93              |
 
+Conclusion: 3bit is the slowest on the prefill and the decode stage.
