@@ -224,16 +224,6 @@ We provide an overview table of the quantization algorithms in this tool as foll
 **Note:** Some specific algorithms like QUIK, SpQR, needing special hardware or kernel support can not go through naive quantization by multiple backends, and then utilize these backends to infer. However, users can still use our tool to evaluate the performance of these algorithms in their research.
 
 
-### Docs
-
-- [ ] End-to-end examples of compressing a model and then utilizing multiple backends, e.g., [Lightllm](https://github.com/ModelTC/lightllm), [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM), to infer.
-
-- [ ] Docs about ``special``  in ``quant`` part in [Configuration](#configuration) for different algorithms.
-
-- [ ] Docs about adding new algorithms by users themselves.
-
-More detailed Docs are coming soon🚀.
-
 ## Acknowledgments
 
 We develop our code referring to the following repos:
