@@ -37,5 +37,5 @@
 |---------------|-------|
 | SmoothQuant   |       |
 | SmoothQuant-LLMC |    |
-| Os_plus       |       |
-| Os_plus-LLMC  |       |
+| Os_plus       | 5.511 |
+| Os_plus-LLMC  | 5.517 |
